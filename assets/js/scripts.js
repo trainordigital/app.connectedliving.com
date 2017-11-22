@@ -25,7 +25,7 @@ Version      : 1.0
 			];
 			var assistant3 = [
 				"We're sending a car to your parents now to take them to their salsa class.",
-				"I found three stores that carry the sweater you want to get your dad in time for the holidays.",
+				"I found three stores that carry the sweater you want to get your Dad in time for the holidays.",
 				"We'll take care of your Mom's cookie tray deliveries so she doesn't have to battle the cold and snow.",
 			];
 			
